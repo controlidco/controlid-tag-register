@@ -1,0 +1,33 @@
+/**
+  *@file index.css
+  */
+
+.box{
+	padding: 100px;
+}
+.title{
+  text-align: center;
+}
+#logo{
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 286px;
+  height: 271px;
+  background-image: url("images/logo.jpg") !important;
+}
+footer {
+  position:fixed;
+  bottom:0px;
+  height:30px;
+  width:100%;
+  text-align: center;
+}
+header {
+  text-align: right;
+  margin-top : 5px;
+}
+.messages{
+  margin-left: 5px;
+  margin-right: 5px;
+}
